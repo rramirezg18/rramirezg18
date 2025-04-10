@@ -45,11 +45,11 @@ Acá podrás encontrar algunos de los conocimientos que he ido desarrollando a t
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  ![snake gif](https://github.com/rramirezg18/rramirezg18/blob/output/github-contribution-grid-snake.svg)
+  
 </p>
 
 ---
-
+![snake gif](https://github.com/rramirezg18/rramirezg18/blob/output/github-contribution-grid-snake.svg)
 
 
 
